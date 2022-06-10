@@ -1,0 +1,54 @@
+/* cuchflix - */
+
+body{
+  background-color: #262626;
+}
+
+.iso
+{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  color: #ffffff;
+  text-align: center;
+}
+
+
+.textlogo
+{
+ text-align: center;
+ color: #b10c08; 
+ font-size: 90px;
+
+}
+
+.textmenu
+{
+ text-align: center;
+ color: #ffffff; 
+ font-size: 20px;
+ background-color: #565556;
+}
+.item{
+  text-align: left;
+  font-size: 30;
+  font-style: bold;
+  background-color:#c3bc96 ;
+
+}
+.textfooter{
+  font-size: 13px;
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
+.textdescrip
+{
+ text-align: center;
+ color: #ffffff; 
+ font-size: 15px;
+ background-color: #565556;
+ text-align: justify;
+}
+
+.but{
+  padding: 10px 10px 10px 10px;
+}
